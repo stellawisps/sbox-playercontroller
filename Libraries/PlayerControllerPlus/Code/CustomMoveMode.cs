@@ -344,7 +344,7 @@ namespace CustomMovement
     /// <summary>The character is walking</summary>
     [Icon("transfer_within_a_station")]
     [Group("Movement")]
-    [Title("MoveMode - Walk")]
+    [Title("CustomMoveMode - Walk")]
     [Alias(new string[] {"Sandbox.PhysicsCharacterMode.PhysicsCharacterWalkMode"})]
     [Description("The character is walking")]
     public class MoveModeWalk : MoveMode
@@ -409,7 +409,7 @@ namespace CustomMovement
     /// <summary>The character is swimming</summary>
     [Icon("scuba_diving")]
     [Group("Movement")]
-    [Title("MoveMode - Swim")]
+    [Title("CustomMoveMode - Swim")]
     [Description("The character is swimming")]
     public class MoveModeSwim : MoveMode
     {
@@ -501,7 +501,7 @@ namespace CustomMovement
     /// <summary>The character is climbing up a ladder</summary>
     [Icon("hiking")]
     [Group("Movement")]
-    [Title("MoveMode - Ladder")]
+    [Title("CustomMoveMode - Ladder")]
     [Description("The character is climbing up a ladder")]
     public class MoveModeLadder : MoveMode
     {

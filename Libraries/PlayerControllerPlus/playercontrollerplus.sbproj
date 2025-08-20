@@ -1,7 +1,14 @@
 {
   "Title": "PlayerControllerPlus",
   "Type": "library",
-  "Org": "local",
+  "Org": "stellawisps",
   "Ident": "playercontrollerplus",
-  "Schema": 1
+  "Schema": 1,
+  "IncludeSourceFiles": false,
+  "Resources": null,
+  "PackageReferences": [],
+  "EditorReferences": null,
+  "Mounts": null,
+  "IsStandaloneOnly": false,
+  "Metadata": {}
 }
